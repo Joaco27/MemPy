@@ -1,0 +1,10 @@
+tiempo_partida, nro_de_partida, cant_palabras, evento, nick, genero, edad, estado, palabra, nivel, puntaje
+1625009158,1,8,inicio_partida,pay,male,22,,,dificil,
+1625009163,1,8,intento,pay,male,22,error, ["Niger ",dificil,0
+1625009165,1,8,intento,pay,male,22,ok, ["Niger ",dificil,1
+1625009168,1,8,intento,pay,male,22,error, ["Swaziland ",dificil,1
+1625009171,1,8,intento,pay,male,22,error, ["Japan ",dificil,1
+1625009174,1,8,intento,pay,male,22,ok, ["Swaziland ",dificil,2
+1625009178,1,8,intento,pay,male,22,error, ["Tuvalu ",dificil,2
+1625009183,1,8,intento,pay,male,22,error, ["Japan ",dificil,2
+1625009190,1,8,fin,pay,male,22,abandonada,,dificil,2

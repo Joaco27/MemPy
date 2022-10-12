@@ -1,0 +1,25 @@
+{
+    "pay": {
+        "info": {
+            "genero": "male",
+            "edad": "22"
+        },
+        "configuracion": {
+            "Medidas": "4X2",
+            "Coincidencias": "2",
+            "Ayuda": "Si",
+            "Tiempo Total": "3",
+            "Tipo de Elemento": "Palabra",
+            "Texto Victoria": "Ganaste!!!!!!!!!!",
+            "Texto Derrota": "Perdiste, intetalo de nuevo",
+            "Texto Poco Tiempo": "Te queda poco tiempo!",
+            "Tema": "BrownBlue"
+        },
+        "estadisticas": {
+            "Partidas Jugadas": 1,
+            "Victorias": 0,
+            "Derrotas": 1,
+            "Puntaje Total": 2
+        }
+    }
+}
